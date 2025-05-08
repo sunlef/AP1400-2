@@ -164,7 +164,10 @@ else
 return 0;
 ```
 <br/>
-<p  align="center"> <b>GOOD LUCK</b> </p>RUNNING TESTS ...
+<p  align="center"> <b>GOOD LUCK</b> </p>
+
+```
+RUNNING TESTS ...
 [==========] Running 31 tests from 1 test suite.
 [----------] Global test environment set-up.
 [----------] 31 tests from HW3Test
@@ -256,3 +259,4 @@ here2
 [==========] 31 tests from 1 test suite ran. (20 ms total)
 [  PASSED  ] 31 tests.
 <<<SUCCESS>>>
+```
